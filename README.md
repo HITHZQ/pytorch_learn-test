@@ -1,6 +1,7 @@
 # pytorch_learn-test
 pytorch_learn&amp;test
-#P_3:基于Lenet的手写字体识别
+//P_3:基于Lenet的手写字体识别/
+
 #P_4:基于Alexnet的图片分类（迁移学习）/如何区分csgo玩机器&丰川祥子
 P_5:opennmt神经翻译机（RNN&LSTM）（attention is all you need）
 P_5:sin_pre_cos用sin函数预测cos函数（效果不错）

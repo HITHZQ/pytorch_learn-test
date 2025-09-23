@@ -1,5 +1,8 @@
 # pytorch_learn-test
 pytorch_learn&amp;test
+
+Pytorch深度学习入门
+
 P_3:基于Lenet的手写字体识别
 
 P_4:基于Alexnet的图片分类（迁移学习）/如何区分csgo玩机器&丰川祥子
